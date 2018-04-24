@@ -13,7 +13,7 @@
       UGC NET Paper 1 Past Paper
   </description>
 
-<gap:plugin name="tappx-phonegap-build" source="npm"/>
+<gap:plugin name="tappx-phonegap-build" source="npmjs"/>
 
   <author email="painspotters360@gmail.com">
       Pain Spotters Learning Solutions
