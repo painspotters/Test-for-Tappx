@@ -13,7 +13,8 @@
       UGC NET Paper 1 Past Paper
   </description>
 
-<gap:plugin name="tappx-phonegap-build" source="npm"/>
+<gap:plugin name="cardova-plugin-admob"/>
+    <plugin spec="https://github.com/ratson/cordova-plugin-admob-free" source="git" />
 
   <author email="painspotters360@gmail.com">
       Pain Spotters Learning Solutions
