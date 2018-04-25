@@ -13,9 +13,8 @@
       UGC NET Paper 1 Past Paper
   </description>
 
-<gap:plugin name="cardova-plugin-admob"/>
-    <plugin spec="https://github.com/ratson/cordova-plugin-admob-free" source="git" />
-
+<gap:plugin name="phonegap-admob" source="npm"/>
+    
   <author email="painspotters360@gmail.com">
       Pain Spotters Learning Solutions
   </author>
