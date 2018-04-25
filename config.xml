@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>UGC NET Paper 1</name>
+  <name>UGC NET/SET Paper 1</name>
 
   <description>
-      UGC NET Paper 1 Past Paper
+      UGC NET Paper 1 Past Papers (25 Papers with 1420 Questions)
   </description>
 
 <gap:plugin name="phonegap-admob" source="npm"/>
